@@ -157,10 +157,10 @@
                             <a href="#">Know your Milk</a>
                         </li>
                         <li>
-                            <a href="#">Blogs</a>
+                            <a href="blog.php">Blogs</a>
                         </li>
                         <li class="dropdown">
-                            <a href="#">Product Shop</a>
+                            <a href="productshop.php">Product Shop</a>
                         </li>
                         <li><a href="contact.php">Contact Us</a></li>
                     </ul>
