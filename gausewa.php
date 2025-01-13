@@ -146,7 +146,7 @@
                     </div>
                     <!-- End Single Widget -->
                     <div class="single-widget quick-contact-widget text-light"
-                        style="background-image: url(assets/img/800x800.png);">
+                        style="background-image: url(assets/img/illustration/ajay-kotipalli-eaVvv05O4O4-unsplash.jpg);">
                         <div class="content">
                             <h3>Need Help?</h3>
                             <p>

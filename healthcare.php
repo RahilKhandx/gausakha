@@ -127,13 +127,13 @@
                                 <li class="current-item"><a href="healthcare.php">Health and Nutrition Care</a></li>
                                 <li><a href="eco-friendly.php">Promoting Organic and Eco-Friendly Practices</a>
                                 </li>
-                                <li><a href="services-details.html">Cultural and Spiritual Contributions</a></li>
+                                <li><a href="contributions.php">Cultural and Spiritual Contributions</a></li>
                             </ul>
                         </div>
                     </div>
                     <!-- End Single Widget -->
                     <div class="single-widget quick-contact-widget text-light"
-                        style="background-image: url(assets/img/800x800.png);">
+                        style="background-image: url(assets/img/illustration/ajay-kotipalli-eaVvv05O4O4-unsplash.jpg);">
                         <div class="content">
                             <h3>Need Help?</h3>
                             <p>
