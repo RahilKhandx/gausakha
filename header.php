@@ -150,7 +150,7 @@
                             <ul class="dropdown-menu">
                                 <li><a href="#">Our Story</a></li>
                                 <li><a href="#">Team</a></li>
-                                <li><a href="#">Gau Sewa</a></li>
+                                <li><a href="gausewa.php">Gau Sewa</a></li>
                             </ul>
                         </li>
                         <li>
@@ -162,7 +162,7 @@
                         <li class="dropdown">
                             <a href="#">Product Shop</a>
                         </li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
 
