@@ -37,9 +37,9 @@
                 <div class="about-style-one-info">
 
                     <h6 class="title">A Visionary Initiative for <span class="orange-text">
-                    Conservation <br>
-                    and Sustainability
-                    </span> </h6>
+                            Conservation <br>
+                            and Sustainability
+                        </span> </h6>
                     <p>
                         Gau Sakha Farms is a visionary initiative dedicated to conserving indigenous Indian cows and
                         promoting sustainable living. Rooted in the principles of tradition and innovation, the farm
@@ -394,8 +394,7 @@
     </div>
 </div>
 
-<!-- Start Timeline 
-    ============================================= -->
+<!-- Start Timeline -->
 <div class="timeline-area default-padding-bottom pt-5 mt-5" style="background-image: url(assets/img/shape/21.png);">
     <div class="container">
         <div class="row">
@@ -475,15 +474,18 @@
     <div class="illustration-bottom">
         <img src="assets/img/illustration/17.png" alt="Image Not Found">
     </div>
-    <div class="shape" style="background-image: url(assets/img/800x800.png);"></div>
+    <div class="shape" style="background-image: url(assets/img/imresizer-1736759713030.jpg);"></div>
     <div class="container">
         <div class="row">
             <div class="col-lg-6 offset-lg-6 pl-60 pl-md-15 pl-xs-15">
                 <h2 class="title">Healthy life with <br> fresh products</h2>
                 <p>
-                    Consume ipsum dolor sit amet consectetur adipisicing elit. Veritatis, illo ullam harum et fuga
-                    suscipit quibusdam sapiente. Corrupti ut consequatur magni minus! Iusto eos consectetur similique
-                    minus culpa odio temporibus.
+                    Discover the path to a healthier life with our range of fresh, natural, and nourishing products.
+                    From nutrient-rich A2 milk to organic produce, every item is crafted with care to support your
+                    well-being. Embrace the benefits of purity and sustainability as you indulge in wholesome foods that
+                    enhance vitality, strengthen immunity, and promote a balanced lifestyle. At Gau Sakha Farms, we
+                    believe that a healthy life begins with the goodness of nature, brought to your doorstep with love
+                    and dedication. Choose fresh, live healthy, and thrive naturally!
                 </p>
                 <div class="list-grid">
 
@@ -509,128 +511,7 @@
 </div>
 <!-- End Choose Us -->
 
-<!-- Start Team 
-    ============================================= -->
-<div class="team-style-one-area default-padding">
-    <div class="container">
-        <div class="row align-center">
-            <div class="col-lg-4">
-                <h4 class="sub-title">Our Farmers</h4>
-                <h2 class="title">Meet our professional farm experts</h2>
-                <a class="btn btn-theme secondary mt-10 btn-md radius animation" href="about-us.html">Meet all
-                    Farmers</a>
-            </div>
-            <div class="col-lg-7 offset-lg-1">
-                <div class="team-style-one-carousel swiper">
-                    <!-- Additional required wrapper -->
-                    <div class="swiper-wrapper">
 
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="farmer-style-one-item">
-                                <div class="thumb">
-                                    <img src="assets/img/800x800.png" alt="Image Not Found">
-                                    <div class="social">
-                                        <i class="fas fa-share-alt"></i>
-                                        <ul>
-                                            <li class="facebook">
-                                                <a href="#">
-                                                    <i class="fab fa-facebook-f"></i>
-                                                </a>
-                                            </li>
-                                            <li class="twitter">
-                                                <a href="#">
-                                                    <i class="fab fa-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="linkedin">
-                                                <a href="#">
-                                                    <i class="fab fa-linkedin-in"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="info">
-                                    <span>Farmer of tomatoes</span>
-                                    <h4><a href="#">Aleesha Brown</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="farmer-style-one-item">
-                                <div class="thumb">
-                                    <img src="assets/img/800x800.png" alt="Image Not Found">
-                                    <div class="social">
-                                        <i class="fas fa-share-alt"></i>
-                                        <ul>
-                                            <li class="facebook">
-                                                <a href="#">
-                                                    <i class="fab fa-facebook-f"></i>
-                                                </a>
-                                            </li>
-                                            <li class="twitter">
-                                                <a href="#">
-                                                    <i class="fab fa-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="linkedin">
-                                                <a href="#">
-                                                    <i class="fab fa-linkedin-in"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="info">
-                                    <span>Farmer of cherry</span>
-                                    <h4><a href="#">Kevin Martin</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="farmer-style-one-item">
-                                <div class="thumb">
-                                    <img src="assets/img/800x800.png" alt="Image Not Found">
-                                    <div class="social">
-                                        <i class="fas fa-share-alt"></i>
-                                        <ul>
-                                            <li class="facebook">
-                                                <a href="#">
-                                                    <i class="fab fa-facebook-f"></i>
-                                                </a>
-                                            </li>
-                                            <li class="twitter">
-                                                <a href="#">
-                                                    <i class="fab fa-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="linkedin">
-                                                <a href="#">
-                                                    <i class="fab fa-linkedin-in"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="info">
-                                    <span>Farmer of potato</span>
-                                    <h4><a href="#">Sarah Albert</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Team -->
 
 <!-- Start Footer 
     ============================================= -->
