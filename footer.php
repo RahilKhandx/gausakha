@@ -139,7 +139,9 @@
         <div class="footer-bottom text-center">
             <div class="row">
                 <div class="col-lg-12">
-                    <p>&copy; Copyright 2024. All Rights Reserved by <a href="#">Gausakha</a></p>
+                    <p>&copy; Copyright 2024. All Rights Reserved by <a href="#">Gausakha</a> ||
+                    Proudly Managed by <a href="https://zeabro.com/">Zeabros India Private Limited</a>
+                </p>
                 </div>
             </div>
         </div>
