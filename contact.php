@@ -4,7 +4,7 @@
 
     <!-- Start Breadcrumb 
     ============================================= -->
-    <div class="breadcrumb-area text-center shadow dark-hard bg-cover text-light" style="background-image: url(assets/img/2440x1578.png);">
+    <div class="breadcrumb-area text-center shadow dark-hard bg-cover text-light" style="background-image:  url(https://www.sajctrust.org/wp-content/uploads/2017/10/gauseva-4.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -34,7 +34,7 @@
                     <div class="contact-form-style-one mb-md-50">
                         <img src="assets/img/illustration/10.png" alt="Image Not Found">
                         <h5 class="sub-title">Have Questions?</h5>
-                        <h2 class="heading">Send us a massage</h2>
+                        <h2 class="heading">Send us a message</h2>
                         <form action="assets/mail/contact.php" method="POST" class="contact-form contact-form">
                             <div class="row">
                                 <div class="col-lg-12">
@@ -96,21 +96,20 @@
                             <li>
                                 <div class="content">
                                     <h5 class="title">Hotline</h5>
-                                    <a href="">+4733378901</a>
+                                    <a href=""> +91 9733378901</a>
                                 </div>
                             </li>
                             <li>
                                 <div class="info">
                                     <h5 class="title">Our Location</h5>
                                     <p>
-                                        55 Main Street, The Grand Avenue 2nd Block, <br> New York City
-                                    </p>
+                                    30e, 2nd Floor, Patliputra Colony, Patna - 800013                                    </p>
                                 </div>
                             </li>
                             <li>
                                 <div class="info">
                                     <h5 class="title">Official Email</h5>
-                                    <a href="mailto:info@agrul.com.com">info@agrul.com</a>
+                                    <a href="mailto:info@agrul.com.com">info@gausakha.com</a>
                                 </div>
                             </li>
                         </ul>
@@ -122,142 +121,7 @@
     </div>
     <!-- End Contact -->
 
-    <!-- Start Footer 
-    ============================================= -->
-    <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/8.png);">
-        <div class="container">
-            <div class="f-items default-padding">
-                <div class="row">
-                    
-                    <!-- Single Itme -->
-                    <div class="col-lg-4 col-md-6 item">
-                        <div class="footer-item about">
-                            <img class="logo" src="assets/img/logo-light.png" alt="Logo">
-                            <p>
-                                Happen active county. Winding morning ambition shyness evident to poor. Because elderly new to the point to main success.
-                            </p>
-                            <form action="#">
-                                <input type="email" placeholder="Your Email" class="form-control" name="email">
-                                <button type="submit"> Go</button>  
-                            </form>
-                        </div>
-                    </div>
-                    <!-- End Single Itme -->
+   
 
-                    <!-- Single Itme -->
-                    <div class="col-lg-2 col-md-6 item">
-                        <div class="footer-item link">
-                            <h4 class="widget-title">Explore</h4>
-                            <ul>
-                                <li>
-                                    <a href="about-us.html">About Us</a>
-                                </li>
-                                <li>
-                                    <a href="team.html">Meet Our Team</a>
-                                </li>
-                                <li>
-                                    <a href="blog-single-with-sidebar.html">News & Media</a>
-                                </li>
-                                <li>
-                                    <a href="services.html">Services</a>
-                                </li>
-                                <li>
-                                    <a href="contact-us.html">Contact Us</a>
-                                </li>
-                                <li>
-                                    <a href="team-details.html">Volunteers</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- End Single Itme -->
-
-                    <!-- Single Itme -->
-                    <div class="col-lg-3 col-md-6 item">
-                        <div class="footer-item recent-post">
-                            <h4 class="widget-title">Recent Posts</h4>
-                            <ul>
-                                <li>
-                                    <div class="thumb">
-                                        <a href="blog-single-with-sidebar.html">
-                                            <img src="assets/img/800x800.png" alt="Thumb">
-                                        </a>
-                                    </div>
-                                    <div class="info">
-                                        <div class="meta-title">
-                                            <span class="post-date">12 Sep, 2023</span>
-                                        </div>
-                                        <h5><a href="blog-single-with-sidebar.html">Meant widow equal an share least part. </a></h5>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="thumb">
-                                        <a href="blog-single-with-sidebar.html">
-                                            <img src="assets/img/800x800.png" alt="Thumb">
-                                        </a>
-                                    </div>
-                                    <div class="info">
-                                        <div class="meta-title">
-                                            <span class="post-date">18 Jul, 2023</span>
-                                        </div>
-                                        <h5><a href="blog-single-with-sidebar.html">Future Plan & Strategy for Consutruction </a></h5>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- End Single Itme -->
-
-                    <!-- Single Itme -->
-                    <div class="col-lg-3 col-md-6 item">
-                        <div class="footer-item contact">
-                            <h4 class="widget-title">Contact Info</h4>
-                            <ul>
-                                <li>
-                                    <div class="icon">
-                                        <i class="fas fa-home"></i>
-                                    </div>
-                                    <div class="content">
-                                        <strong>Address:</strong>
-                                        5919 Trussville Crossings Pkwy, Birmingham
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="fas fa-envelope"></i>
-                                    </div>
-                                    <div class="content">
-                                        <strong>Email:</strong>
-                                        <a href="mailto:info@validtheme.com">info@validtheme.com</a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="fas fa-phone"></i>
-                                    </div>
-                                    <div class="content">
-                                        <strong>Phone:</strong>
-                                        <a href="tel:2151234567">+123 34598768</a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- Single Itme -->
-                    
-                </div>
-            </div>
-            <!-- Start Footer Bottom -->
-            <div class="footer-bottom text-center">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <p>&copy; Copyright 2023. All Rights Reserved by <a href="#">validthemes</a></p>
-                    </div>
-                </div>
-            </div>
-            <!-- End Footer Bottom -->
-        </div>
-        <div class="shape-right-bottom">
-            <img src="assets/img/shape/7.png" alt="Image Not Found">
-        </div>
+              
         <?php include "footer.php" ?>

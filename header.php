@@ -149,7 +149,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Organization</a>
                             <ul class="dropdown-menu">
                                 <li><a href="about.php">About Us</a></li>
-                                <li><a href="#">Team</a></li>
+                                <!-- <li><a href="#">Team</a></li> -->
                                 <li><a href="gausewa.php">Gau Sewa</a></li>
                             </ul>
                         </li>
@@ -159,9 +159,9 @@
                         <li>
                             <a href="blog.php">Blogs</a>
                         </li>
-                        <li class="dropdown">
+                        <!-- <li class="dropdown">
                             <a href="productshop.php">Product Shop</a>
-                        </li>
+                        </li> -->
                         <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->

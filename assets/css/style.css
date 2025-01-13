@@ -9184,3 +9184,6 @@ footer {
 .test-font{
 	font-size: 20px !important;
 }
+.orange-text{
+	color: var(--dark) !important;
+}
