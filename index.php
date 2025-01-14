@@ -37,7 +37,7 @@
                                         products, fresh from our own farms to your family.
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme btn-md radius animation" href="#">Discover More</a>
+                                        <a class="btn btn-theme btn-md radius animation" href="index.php">Discover More</a>
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@
                                         crafted with care straight from nature.
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme btn-md radius animation" href="#">Discover More</a>
+                                        <a class="btn btn-theme btn-md radius animation" href="index.php">Discover More</a>
                                     </div>
                                 </div>
                             </div>

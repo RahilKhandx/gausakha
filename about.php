@@ -436,7 +436,7 @@
                         <h2>Indigenous Cow Breeding</h2>
                         <span>
                             <p>
-                            A home for Sahiwal and Rathi varieties of desi cows, protection, and welfare.
+                                A home for Sahiwal and Rathi varieties of desi cows, protection, and welfare.
 
                             </p>
                         </span>
@@ -447,7 +447,8 @@
                         <h2>Organic Farming Methods</h2>
                         <span>
                             <p>
-                            We grow several fruits, vegetables, and medicinal plants organically using zero-budget farming as we believe in nurturing the land, thus allowing biodiversity to flourish.
+                                We grow several fruits, vegetables, and medicinal plants organically using zero-budget
+                                farming as we believe in nurturing the land, thus allowing biodiversity to flourish.
 
                             </p>
                         </span>
@@ -458,7 +459,8 @@
                         <h2>Eco-Tourism Hub</h2>
                         <span>
                             <p>
-                            Providing a tranquil atmosphere for yoga, meditation, and workshops on traditional farming and sustainable living to the visitors.
+                                Providing a tranquil atmosphere for yoga, meditation, and workshops on traditional
+                                farming and sustainable living to the visitors.
 
                             </p>
                         </span>
@@ -469,12 +471,13 @@
                         <h2>Value-Added Products</h2>
                         <span>
                             <p>
-                            A2 Milk, Ghee, Curd, Paneer, and Organic Manure of the highest quality, processed on the farm in the most hygienic surroundings, using traditional methods.
+                                A2 Milk, Ghee, Curd, Paneer, and Organic Manure of the highest quality, processed on the
+                                farm in the most hygienic surroundings, using traditional methods.
 
                             </p>
                         </span>
                     </div>
-                    <div class="timeline-item">
+                    <!-- <div class="timeline-item">
                         <h2>Energy</h2>
                         <span>
                             <p>
@@ -482,33 +485,55 @@
 
                             </p>
                         </span>
-                    </div>
+                    </div> -->
                     <!-- End Single Item -->
                 </div>
             </div>
         </div>
     </div>
 </div>
+<div class="col-xl-6 col-lg-12">
+    <div class="callto-action text-light">
+        <h2 class="title">Inspirational Note</h2>
+        <p>
+
+            We invite you to join us on a journey of sustainable, healthier, and spiritually fulfilled living.
+
+            It is an accredited, community-based farm committed to the following core values: ensuring a facility for
+            innovative agriculture and animal welfare; spiritual growth; building a community at Gau Sakha Farms.
+
+            Focusing on sustainability, traditional wisdom, and eco-tourism, we build a model farm that aspires to
+            inspire change toward betterment-for people and the planet.
+
+
+
+        </p>
+        <!-- <a href="#">Discover More</a> -->
+    </div>
+</div>
 <!-- End Timeline -->
 
 <!-- Start Choose Us 
+ 
     ============================================= -->
 <div class="choose-us-style-three-area default-padding bg-dark text-light">
     <div class="illustration-bottom">
         <img src="assets/img/illustration/17.png" alt="Image Not Found">
     </div>
-    <div class="shape" style="background-image: url(assets/img/imresizer-1736759713030.jpg);"></div>
+    <div class="shape" style="background-image: url(assets/img/cm.jpg);"></div>
     <div class="container">
         <div class="row">
             <div class="col-lg-6 offset-lg-6 pl-60 pl-md-15 pl-xs-15">
-                <h2 class="title">Healthy life with <br> fresh products</h2>
+                <h2 class="title">
+                    Community Engagement
+                </h2>
                 <p>
-                    Discover the path to a healthier life with our range of fresh, natural, and nourishing products.
-                    From nutrient-rich A2 milk to organic produce, every item is crafted with care to support your
-                    well-being. Embrace the benefits of purity and sustainability as you indulge in wholesome foods that
-                    enhance vitality, strengthen immunity, and promote a balanced lifestyle. At Gau Sakha Farms, we
-                    believe that a healthy life begins with the goodness of nature, brought to your doorstep with love
-                    and dedication. Choose fresh, live healthy, and thrive naturally!
+                    Gau Sakha Farms is not just a farm; it has been working as a platform for local farmers, businesses,
+                    and environmentalists to bring about positive change in unison.
+                    We promote environmental conservation, rural development, and improvement in people's livelihoods
+                    through partnerships and resources.
+
+
                 </p>
                 <div class="list-grid">
 
@@ -523,14 +548,16 @@
                         </div>
                     </div>
                     <ul class="list-item">
-                        <li>Biodynamic food</li>
-                        <li>Organic gardening</li>
-                        <li>Organic food certification</li>
+                        <li>Dairy and Milk Products</li>
+                        <li>Dung and Biogas Production</li>
+                        <li>Education and Training</li>
                     </ul>
                 </div>
             </div>
         </div>
+
     </div>
+
 </div>
 <!-- End Choose Us -->
 
