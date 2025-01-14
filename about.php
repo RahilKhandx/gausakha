@@ -36,16 +36,20 @@
             <div class="col-xl-5 offset-xl-1 col-lg-6 offset-lg-1">
                 <div class="about-style-one-info">
 
-                    <h6 class="title">A Visionary Initiative for <span class="orange-text">
-                            Conservation <br>
-                            and Sustainability
+                    <h6 class="title">Introduction <br><span class="orange-text">
+                            Gau Sakha Farms
+
                         </span> </h6>
                     <p>
-                        Gau Sakha Farms is a visionary initiative dedicated to conserving indigenous Indian cows and
-                        promoting sustainable living. Rooted in the principles of tradition and innovation, the farm
-                        integrates cow-based products, natural farming practices, and eco-tourism to create a harmonious
-                        ecosystem. As a model for social entrepreneurship, Gau Sakha Farms inspires individuals and
-                        communities to embrace sustainable practices while preserving cultural heritage.
+                        Gau Sakha Farms represents a farsighted integration of tradition with innovation, bound by a
+                        commitment to the preservation of indigenous cow breeds in India and the promotion of
+                        sustainable lifestyles.
+
+                        It is a farm focused on cow-based products, natural farming practices, and unique eco-tourism.
+
+                        Our model is representative of social entrepreneurship, whereby the conservation of cultural
+                        heritage meets modern ecological solutions for a healthier and self-sustaining future.
+
                     </p>
                     <!-- <div class="fun-fact-style-flex mt-35">
                         <div class="counter">
@@ -99,8 +103,14 @@
                 <div class="callto-action text-light">
                     <h2 class="title">Mission</h2>
                     <p>
-                        Focus on the farm's mission to nurture, conserve, and propagate indigenous cow breeds while
-                        promoting eco-friendly practices, holistic well-being, and community-driven growth.
+                        At Gau Sakha Farms, our mission is to conserve and propagate indigenous cow breeds, mainly
+                        prioritizing their welfare and breeding for creating a congenial ecosystem. We are committed to
+                        ecological balance by using eco-friendly methods of farming-zero budget organic farming, and
+                        pure cow-product manufacturing.
+
+                        We nurture holistic wellbeing and community-led growth to inspire a better way through more
+                        sustainable, ethical farming and animal welfare practices.
+
                     </p>
                     <!-- <a href="#">Discover More</a> -->
                 </div>
@@ -183,9 +193,9 @@
                                 <div class="info">
                                     <span>
                                         <p>
-                                            Dedication to serving and protecting cows as sacred beings, ensuring their
-                                            well-being and
-                                            honoring their cultural significance.
+                                            We have much respect and attachment toward cows concerning protection,
+                                            considering them part of our very culture.
+
                                         </p>
                                     </span>
                                     <h4><a href="#">Gau Seva</a></h4>
@@ -222,9 +232,9 @@
                                 <div class="info">
                                     <span>
                                         <p>
-                                            A commitment to eco-friendly practices such as zero-budget organic farming,
-                                            waste-to-energy
-                                            technologies, and renewable energy use.
+                                            Our commitment to eco-friendly practices extends to zero-budget organic
+                                            farming methods, renewable energy, and waste-to-energy technologies.
+
                                         </p>
                                     </span>
                                     <h4><a href="#">Sustainability</a></h4>
@@ -261,8 +271,9 @@
                                 <div class="info">
                                     <span>
                                         <p>
-                                            Empowering local communities by creating employment opportunities, and
-                                            promoting a healthier, sustainable lifestyle.
+                                            We aim at local-level entrepreneurship, local training, and generally a
+                                            healthy, sustained lifestyle through eco-friendly tourism activities.
+
                                         </p>
                                     </span>
                                     <h4><a href="#">Community Impact</a></h4>
@@ -381,11 +392,15 @@
             </div>
             <div class="col-xl-6 col-lg-12">
                 <div class="callto-action text-light">
-                    <h2 class="title">Vission</h2>
+                    <h2 class="title">Vision</h2>
                     <p>
-                        Present a long-term vision of creating a healthier world by integrating traditional wisdom with
-                        modern farming techniques. Emphasize the goal of achieving a self-sustaining ecosystem that
-                        inspires others to adopt similar practices.
+                        Our vision is for a sustainable and healthy world; this can only be achieved with the help of
+                        traditional farming skills combined with tools of modern innovation.
+
+                        We aspire to build a self-sustaining ecosystem that acts as a model for others, inspiring
+                        individuals and communities to adopt practices that are not only environmentally friendly but
+                        also spiritually enriching.
+
                     </p>
                     <!-- <a href="#">Discover More</a> -->
                 </div>
@@ -421,19 +436,19 @@
                         <h2>Indigenous Cow Breeding</h2>
                         <span>
                             <p>
-                                Gau Sakha Farms serves as a sanctuary for desi cow breeds like Sahiwal and Rathi. These
-                                cows are cared for with the utmost devotion to ensure their preservation and well-being.
+                            A home for Sahiwal and Rathi varieties of desi cows, protection, and welfare.
+
                             </p>
                         </span>
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="timeline-item">
-                        <h2>Natural Farming Practices</h2>
+                        <h2>Organic Farming Methods</h2>
                         <span>
                             <p>
-                                Embrace zero-budget and organic farming techniques to grow fruits, vegetables, and
-                                medicinal plants.
+                            We grow several fruits, vegetables, and medicinal plants organically using zero-budget farming as we believe in nurturing the land, thus allowing biodiversity to flourish.
+
                             </p>
                         </span>
                     </div>
@@ -443,8 +458,7 @@
                         <h2>Eco-Tourism Hub</h2>
                         <span>
                             <p>
-                                Offer visitors an enriching experience through yoga, meditation, and traditional farming
-                                workshops in a serene rural setting.
+                            Providing a tranquil atmosphere for yoga, meditation, and workshops on traditional farming and sustainable living to the visitors.
 
                             </p>
                         </span>
@@ -455,7 +469,16 @@
                         <h2>Value-Added Products</h2>
                         <span>
                             <p>
-                                Provide high-quality A2 milk, ghee, curd, paneer, and organic manure.
+                            A2 Milk, Ghee, Curd, Paneer, and Organic Manure of the highest quality, processed on the farm in the most hygienic surroundings, using traditional methods.
+
+                            </p>
+                        </span>
+                    </div>
+                    <div class="timeline-item">
+                        <h2>Energy</h2>
+                        <span>
+                            <p>
+                            The energy needs of the farm are met through the application of solar power and biogas systems.
 
                             </p>
                         </span>
