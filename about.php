@@ -169,26 +169,7 @@
                             <div class="farmer-style-one-item">
                                 <div class="thumb">
                                     <img src="assets\img\imresizer-1736759580111.jpg" alt="Image Not Found">
-                                    <!-- <div class="social">
-                                        <i class="fas fa-share-alt"></i>
-                                        <ul>
-                                            <li class="facebook">
-                                                <a href="#">
-                                                    <i class="fab fa-facebook-f"></i>
-                                                </a>
-                                            </li>
-                                            <li class="twitter">
-                                                <a href="#">
-                                                    <i class="fab fa-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="linkedin">
-                                                <a href="#">
-                                                    <i class="fab fa-linkedin-in"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div> -->
+
                                 </div>
                                 <div class="info">
                                     <span>
@@ -208,26 +189,7 @@
                             <div class="farmer-style-one-item">
                                 <div class="thumb">
                                     <img src="assets\img\imresizer-1736759713030.jpg" alt="Image Not Found">
-                                    <!-- <div class="social">
-                                        <i class="fas fa-share-alt"></i>
-                                        <ul>
-                                            <li class="facebook">
-                                                <a href="#">
-                                                    <i class="fab fa-facebook-f"></i>
-                                                </a>
-                                            </li>
-                                            <li class="twitter">
-                                                <a href="#">
-                                                    <i class="fab fa-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="linkedin">
-                                                <a href="#">
-                                                    <i class="fab fa-linkedin-in"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div> -->
+
                                 </div>
                                 <div class="info">
                                     <span>
@@ -247,26 +209,7 @@
                             <div class="farmer-style-one-item">
                                 <div class="thumb">
                                     <img src="assets\img\imresizer-1736759877825.jpg" alt="Image Not Found">
-                                    <!-- <div class="social">
-                                        <i class="fas fa-share-alt"></i>
-                                        <ul>
-                                            <li class="facebook">
-                                                <a href="#">
-                                                    <i class="fab fa-facebook-f"></i>
-                                                </a>
-                                            </li>
-                                            <li class="twitter">
-                                                <a href="#">
-                                                    <i class="fab fa-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="linkedin">
-                                                <a href="#">
-                                                    <i class="fab fa-linkedin-in"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div> -->
+
                                 </div>
                                 <div class="info">
                                     <span>
@@ -492,25 +435,97 @@
         </div>
     </div>
 </div>
-<div class="col-xl-6 col-lg-12">
-    <div class="callto-action text-light">
-        <h2 class="title">Inspirational Note</h2>
-        <p>
+<!-- holistics -->
+<div class="cnt pb-5 pt-5">
+    <div class="row">
+    <div class="col-xl-5 col-lg-5">
+        <div class="callto-action text-light">
+            <h2 class="title">Inspirational Note</h2>
+            <p>
 
-            We invite you to join us on a journey of sustainable, healthier, and spiritually fulfilled living.
+                We invite you to join us on a journey of sustainable, healthier, and spiritually fulfilled living.
 
-            It is an accredited, community-based farm committed to the following core values: ensuring a facility for
-            innovative agriculture and animal welfare; spiritual growth; building a community at Gau Sakha Farms.
+                It is an accredited, community-based farm committed to the following core values: ensuring a facility
+                for
+                innovative agriculture and animal welfare; spiritual growth; building a community at Gau Sakha Farms.
 
-            Focusing on sustainability, traditional wisdom, and eco-tourism, we build a model farm that aspires to
-            inspire change toward betterment-for people and the planet.
+                Focusing on sustainability, traditional wisdom, and eco-tourism, we build a model farm that aspires to
+                inspire change toward betterment-for people and the planet.
+
+            </p>
+        </div>
+    </div>
+    <div class="col-lg-6 ">
+        <div class="team-style-one-carousel swiper">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+
+                <!-- Single Item -->
+                <div class="swiper-slide">
+                    <div class="farmer-style-one-item">
+                        <div class="thumb">
+                            <img src="assets\img\image-357x357.jpg" alt="Image Not Found">
+
+                        </div>
+                        <div class="info">
+                            <span>
+                                <p>
+                                We manufacture A2 milk for its medicinal and nutritional values and dairy products like ghee, curd, and paneer with very high-quality standards.
 
 
+                                </p>
+                            </span>
+                            <h4><a href="#">Dairy and Milk Products</a></h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="swiper-slide">
+                    <div class="farmer-style-one-item">
+                        <div class="thumb">
+                            <img src="assets\img\cow.jpg" alt="Image Not Found">
 
-        </p>
-        <!-- <a href="#">Discover More</a> -->
+                        </div>
+                        <div class="info">
+                            <span>
+                                <p>
+                                The cow dung will be utilized for organic manure, while cow urine undergoes processing into Ayurvedic and agricultural applications.
+
+                                </p>
+                            </span>
+                            <h4><a href="#">Dung and Biogas Production</a></h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="swiper-slide">
+                    <div class="farmer-style-one-item">
+                        <div class="thumb">
+                            <img src="assets\img\imresizer-1736759877825.jpg" alt="Image Not Found">
+
+                        </div>
+                        <div class="info">
+                            <span>
+                                <p>
+                                Our scope of work includes customized training for farming enthusiasts, 'Dairy as Business' entrepreneurs,  and cow-based livelihood products.
+
+
+                                </p>
+                            </span>
+                            <h4><a href="#">Education and Training</a></h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+            </div>
+        </div>
+    </div>
     </div>
 </div>
+
+
 <!-- End Timeline -->
 
 <!-- Start Choose Us 
