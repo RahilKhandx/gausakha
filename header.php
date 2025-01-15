@@ -154,7 +154,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="#">Know your Milk</a>
+                            <a href="milk.php">Know your Milk</a>
                         </li>
                         <li>
                             <a href="blog.php">Blogs</a>

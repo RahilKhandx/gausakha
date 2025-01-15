@@ -30,8 +30,7 @@
                     </div>
                     <h2>Cultural and Spiritual Contributions</h2>
                     <p>
-                    Gau Seva, or service to cows, is deeply rooted in the cultural and spiritual heritage of many traditions, especially in Indian civilization. For millennia, the cow has been regarded as a symbol of abundance, purity, and nurturing energy. This reverence stems not only from its role in sustaining human life but also from its association with spiritual ideals that promote harmony and compassion.</p>
-                    <div class="features mt-40 mt-xs-30 mb-30 mb-xs-20">
+                    Gau Seva, or service to cows, stands out as a cardinal cornerstone for various cultural and spiritual traditions, especially within India. It is through the cow that one gets an essence of bounty, purity, and life-sustaining force. At Gau Sakha Farms, we pay heed to this regard by catering to spiritual and physical services for cows, saints, and the community.                    <div class="features mt-40 mt-xs-30 mb-30 mb-xs-20">
                         <div class="row">
                             <div class="col-xl-5 col-lg-12 col-md-6">
                                 <div class="content">
@@ -48,13 +47,12 @@
                                 <div class="content">
                                     <h3>Our Initiatives</h3>
                                     <p>
-                                    At the heart of Gau Seva lies a variety of impactful initiatives aimed at preserving and promoting the welfare of cows. 
-                                    </p>
+                                    We offer a safe haven for cows, especially those in need, ensuring they live with dignity and respect. Through our efforts, we raise awareness about the importance of cow protection and the ethical treatment of animals, encouraging others to adopt compassionate practices.                                    </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <blockquote style="font-size:25px"> Cows hold a special place in the cultural and spiritual fabric of many societies, particularly in India. Through the ages, their role has inspired values of compassion, coexistence, and reverence for nature.</p>
+                    <blockquote style="font-size:25px"> Join us in protecting 'Gau Mata' and creating a sustainable, prosperous future for all. Your support can make a world of difference—donate today and be part of this sacred mission!</p>
                     </blockquote>
 
 
@@ -74,8 +72,7 @@
                                     aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Donate funds or resources to help maintain and expand cow shelters.
-                                        </p>
+                                        Donate funds, food, or materials to help maintain and expand cow shelters (Gaushalas). Your contribution directly supports the care and well-being of cows in need.                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -90,7 +87,8 @@
                                     data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Use organic fertilizers and products derived from cow dung and urine.
+
+                                        Use organic fertilizers and products made from cow dung and urine. By choosing these eco-friendly alternatives, you help reduce environmental impact and promote a healthier lifestyle.
                                         </p>
                                     </div>
                                 </div>
@@ -107,8 +105,7 @@
                                     aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Spread the message of Gau Raksha by educating others about the spiritual,
-                                            cultural, and ecological importance of cow protection.
+                                        Educate others about the significance of cow protection in our spiritual, cultural, and ecological life. Share the message of Gau Sakha Farms to inspire more people to join this cause.
                                         </p>
                                     </div>
                                 </div>

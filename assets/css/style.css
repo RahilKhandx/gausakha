@@ -9187,3 +9187,82 @@ footer {
 .orange-text{
 	color: var(--dark) !important;
 }
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+}
+header2 {
+	background: linear-gradient(90deg, #ff7b54, #ffae42);
+	padding: 20px 0;
+	text-align: center;
+	color: white;
+}
+header2 h1 {
+	margin: 0;
+	font-size: 2.5rem;
+}
+.hero {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	padding: 40px 20px;
+	text-align: center;
+}
+.hero img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 15px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+	animation: fadeIn 1s ease-in-out;
+}
+.hero-content {
+	max-width: 500px;
+	margin: 20px;
+	animation: slideIn 1s ease-in-out;
+}
+.hero-content h2 {
+	font-size: 2rem;
+	color: #ff7b54;
+}
+.hero-content p {
+	line-height: 1.6;
+	margin: 10px 0;
+}
+.features {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 20px;
+	padding: 20px;
+}
+.feature-card {
+	background: white;
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+	text-align: center;
+	animation: fadeInUp 1s ease-in-out;
+}
+.feature-card h3 {
+	color: #ff7b54;
+}
+.feature-card p {
+	font-size: 0.9rem;
+}
+
+
+@keyframes fadeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@keyframes slideIn {
+	from { transform: translateY(30px); opacity: 0; }
+	to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes fadeInUp {
+	from { transform: translateY(20px); opacity: 0; }
+	to { transform: translateY(0); opacity: 1; }
+}

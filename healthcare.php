@@ -30,15 +30,16 @@
                     </div>
                     <h2>Health and Nutrition Care</h2>
                     <p>
-                    At the heart of Gau Seva is the well-being of cows, ensuring they are nurtured with proper health care and balanced nutrition. Healthy cows not only thrive themselves but also contribute to the ecosystem and the community in countless ways. </p>
+                    At Gau Sakha Farms, the health and well-being of our cows are always at the top of our priorities. Our commitment to regular medical attention and high-quality nutrition ensures that each cow is cared for holistically. Healthy cows not only enjoy a better quality of life but also play an essential role in creating a thriving and balanced ecosystem.
                     <div class="features mt-40 mt-xs-30 mb-30 mb-xs-20">
                         <div class="row">
                             <div class="col-xl-5 col-lg-12 col-md-6">
                                 <div class="content">
                                     <h3>Preventive Health Care</h3>
                                     <ul class="feature-list-item">
-                                        <li>Vaccinations</li>
-                                        <li>Deworming</li>
+                                        <li>Regular Medical Treatments</li>
+                                        <li>Nourishing, Tailored Diets
+                                        </li>
                                         <li>Routine Health Check-ups</li>
                                         <!-- <li>Sustainable Energy</li> -->
                                     </ul>
@@ -48,13 +49,15 @@
                                 <div class="content">
                                     <h3>Emotional Well-being</h3>
                                     <p>
-                                    Cows are sensitive creatures that thrive in environments of love and care. Spending time with them, showing compassion, and ensuring they are not subjected to stress are vital parts of Gau Seva. Happy and healthy cows bring positivity and abundance to the community.
+                                    Cows, like humans, thrive in an environment filled with love, care, and compassion. When cows are treated with kindness and respect, they not only lead healthier lives but also radiate positive energy that benefits the entire community. Their happiness brings prosperity and abundance, creating a ripple effect of goodwill and harmony. 
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <blockquote style="font-size:25px"> By caring for the health and nutrition of cows, we preserve their well-being and honor their sacred role in our lives. Whether through providing resources, volunteering, or supporting cow shelters, your contribution can make a meaningful difference. </p>
+                    <blockquote style="font-size:25px"> Join us in protecting 'Gau Mata' and creating a sustainable, prosperous future for all. Your support can make a world of difference—donate today and be part of this sacred mission!
+
+                    </p>
                     </blockquote>
 
                   
@@ -74,7 +77,7 @@
                                     aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                        Donate funds or resources to help maintain and expand cow shelters.
+                                        Donate funds, food, or materials to help maintain and expand cow shelters (Gaushalas). Your contribution directly supports the care and well-being of cows in need.
                                         </p>
                                     </div>
                                 </div>
@@ -90,7 +93,7 @@
                                     data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                        Use organic fertilizers and products derived from cow dung and urine.
+                                        Use organic fertilizers and products made from cow dung and urine. By choosing these eco-friendly alternatives, you help reduce environmental impact and promote a healthier lifestyle.
                                         </p>
                                     </div>
                                 </div>
@@ -107,6 +110,9 @@
                                     aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
+                                            
+Educate others about the significance of cow protection in our spiritual, cultural, and ecological life. Share the message of Gau Sakha Farms to inspire more people to join this cause.
+
                                         </p>
                                     </div>
                                 </div>

@@ -30,14 +30,8 @@
                     </div>
                     <h2>Gau Sewa</h2>
                     <p>
-                        Gau Seva (Service to Cows) holds a profound spiritual and cultural significance in many
-                        traditions, particularly in Indian culture and Hinduism. Rooted in ancient wisdom, Gau Seva is
-                        considered an act of devotion, compassion, and a way to serve the divine. The cow, revered as a
-                        symbol of motherhood and abundance, is believed to embody purity and selflessness. By serving
-                        cows—through providing them with care, nourishment, and protection—one connects with the essence
-                        of selfless love and gratitude towards nature. Gau Seva is not merely about caring for animals;
-                        it represents a holistic philosophy of living in harmony with all living beings, fostering a
-                        sense of unity, reverence, and spiritual growth. </p>
+                    Gau Sewa is the essence of love, care, and thankfulness to nature, which is deeply connected with Indian culture and Hindu traditions. The cow has been a symbol of motherhood and provider of plenty; it represents purity and selflessness. Intrinsic in all, Gau Sewa sends out the universal philosophy of harmonious coexistence with all life and fosters spiritual growth and viable ecology.
+                    </p>
                     <div class="features mt-40 mt-xs-30 mb-30 mb-xs-20">
                         <div class="row">
                             <div class="col-xl-5 col-lg-12 col-md-6">
@@ -55,24 +49,22 @@
                                 <div class="content">
                                     <h3>Community Engagement</h3>
                                     <p>
-                                        Illustrate how Gau Sakha Farms acts as a platform for collaboration, inspiring
-                                        others to contribute to environmental conservation and rural development.
-                                        Mention partnerships with local farmers, businesses, and health practitioners.
+                                    Collaborating with farmers, local businesses, and health practitioners for collective impact.
+
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <blockquote style="font-size:25px"> Conclude with a heartfelt message inviting people to join the
-                        journey toward a
-                        sustainable, healthier, and spiritually fulfilling lifestyle under the blessings of the sacred
-                        cow. </p>
+                    <blockquote style="font-size:25px">Join us in protecting 'Gau Mata' and creating a sustainable, prosperous future for all. Your support can make a world of difference—donate today and be part of this sacred mission!
+
+                    </p>
                     </blockquote>
 
                   
 
                     <div class="common-faq mt-40">
-                        <h2 class="mb-25">How You Can Contribute
+                        <h2 class="mb-25">Donate for Gau Mata
                         </h2>
                         <div class="accordion accordion-style-two-items" id="faqAccordion">
                             <div class="accordion-style-two">
@@ -86,7 +78,7 @@
                                     aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                        Donate funds or resources to help maintain and expand cow shelters.
+                                        Donate funds, food, or materials to help maintain and expand cow shelters (Gaushalas). Your contribution directly supports the care and well-being of cows in need.
                                         </p>
                                     </div>
                                 </div>
@@ -102,7 +94,7 @@
                                     data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                        Use organic fertilizers and products derived from cow dung and urine.
+                                        Use organic fertilizers and products made from cow dung and urine. By choosing these eco-friendly alternatives, you help reduce environmental impact and promote a healthier lifestyle.
                                         </p>
                                     </div>
                                 </div>
@@ -119,8 +111,7 @@
                                     aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                        Spread the message of Gau Raksha by educating others about the spiritual, cultural, and ecological importance of cow protection.
-                                        </p>
+                                        Educate others about the significance of cow protection in our spiritual, cultural, and ecological life. Share the message of Gau Sakha Farms to inspire more people to join this cause.                                        </p>
                                     </div>
                                 </div>
                             </div>

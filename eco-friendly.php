@@ -30,10 +30,8 @@
                     </div>
                     <h2>Promoting Organic and Eco-Friendly Practices</h2>
                     <p>
-                        In today’s fast-paced world, the need for sustainable and eco-friendly practices has never been
-                        more critical. By embracing organic methods and environmentally responsible choices, we
-                        contribute to the well-being of our planet, ensure healthier lifestyles, and foster a future of
-                        harmony with nature.</p>
+                    In the modern world, protection and adaptation to sustainable and eco-friendly practices are very important for the sake of a healthy planet for future generations. Gau Sakha Farms, based on a philosophy of commitment to cow welfare, does farming using environmentally conscious methods that support ecological sustainability along with animal health.
+                    </p>
                     <div class="features mt-40 mt-xs-30 mb-30 mb-xs-20">
                         <div class="row">
                             <div class="col-xl-5 col-lg-12 col-md-6">
@@ -51,17 +49,14 @@
                                 <div class="content">
                                     <h3>Our Initiatives</h3>
                                     <p>
-                                        Supporting sustainable agriculture and traditional farming methods.<br>
-                                        Encouraging the use of natural products over synthetic alternatives.<br>
-                                        Advocating for waste reduction, recycling, and responsible consumption.
+                                    We advocate for the use of traditional farming methods that respect the land and animals, focusing on long-term ecological health. By promoting the use of natural products, like cow dung-based fertilizers, we help reduce reliance on harmful synthetic chemicals in farming.
+
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <blockquote style="font-size:25px"> Explore our programs and initiatives to learn how you can
-                        contribute to promoting organic and eco-friendly practices. Together, we can create a
-                        sustainable world for generations to come.</p>
+                    <blockquote style="font-size:25px">Join us in protecting 'Gau Mata' and creating a sustainable, prosperous future for all. Your support can make a world of difference—donate today and be part of this sacred mission!</p>
                     </blockquote>
 
 
@@ -81,7 +76,7 @@
                                     aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Donate funds or resources to help maintain and expand cow shelters.
+                                        Donate funds, food, or materials to help maintain and expand cow shelters (Gaushalas). Your contribution directly supports the care and well-being of cows in need.
                                         </p>
                                     </div>
                                 </div>
@@ -97,8 +92,7 @@
                                     data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Use organic fertilizers and products derived from cow dung and urine.
-                                        </p>
+                                        Use organic fertilizers and products made from cow dung and urine. By choosing these eco-friendly alternatives, you help reduce environmental impact and promote a healthier lifestyle.                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -114,8 +108,7 @@
                                     aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Spread the message of Gau Raksha by educating others about the spiritual,
-                                            cultural, and ecological importance of cow protection.
+                                        Educate others about the significance of cow protection in our spiritual, cultural, and ecological life. Share the message of Gau Sakha Farms to inspire more people to join this cause.
                                         </p>
                                     </div>
                                 </div>
